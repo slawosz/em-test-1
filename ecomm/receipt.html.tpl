@@ -68,7 +68,7 @@
                     </tbody>
                   </table>
 
-                  {% include '_information_text' %}
+                  {% include 'information_text' %}
 
                   <table class="row show-for-large">
                     <tbody>
