@@ -7,10 +7,10 @@
   <meta name="viewport" content="width=device-width" />
 
   <title></title>
+  {% include 'ecomm/_style' %}
 </head>
 
 <body>
-  {% include 'ecomm/_style' %}
 
   <table class="body">
     <tr>
@@ -205,7 +205,7 @@
                   </table>
 
                   <!-- Receipt first row -->
-                  {% include '_receipt_row' for products %}
+                  {% include 'ecomm/_receipt_row' for products %}
 
                   <table class="row">
                     <tbody>
