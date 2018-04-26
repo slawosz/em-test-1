@@ -1,0 +1,6 @@
+{
+  "products": [
+    { "name": "Foo", "netto": 5.0, "quantity": 2, "tax": 0.0, "total_price": 5.0 },
+    { "name": "Boo", "netto": 5.0, "quantity": 2, "tax": 1.0, "total_price": 5.0 }
+  ]
+}
