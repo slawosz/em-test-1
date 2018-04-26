@@ -33,9 +33,10 @@
         <tr>
           <th>
                   <center data-parsed="">
-                    <a href="http://www.sendwithus.com" align="center" class="text-center">
-                      <img src="https://www.sendwithus.com/assets/img/zurb-template-images/logo-placeholder.png" class="swu-logo" alt="Logo Image">
-                    </a>
+                    <a href=
+                    "http://www.emailwizard.io"
+                    align="center" class=
+                    "text-center"><img src= "http://via.placeholder.com/200x60" class="swu-logo" alt= "Logo" /></a>
                   </center>
                 </th>
 <th class="expander"></th>
