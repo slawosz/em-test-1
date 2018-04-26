@@ -204,53 +204,8 @@
                     </tbody>
                   </table>
 
-                  <table class="row">
-                    <tbody>
-                      <tr>
-                        <!-- Receipt first row -->
-
-                        <th class="small-12 large-4 columns first">
-                          <table>
-                            <tr>
-                              <th>Widget 1</th>
-                            </tr>
-                          </table>
-                        </th>
-
-                        <th class="small-12 large-2 columns">
-                          <table>
-                            <tr>
-                              <th>$2.99</th>
-                            </tr>
-                          </table>
-                        </th>
-
-                        <th class="small-12 large-2 columns">
-                          <table>
-                            <tr>
-                              <th>1</th>
-                            </tr>
-                          </table>
-                        </th>
-
-                        <th class="small-12 large-2 columns">
-                          <table>
-                            <tr>
-                              <th>$0.00</th>
-                            </tr>
-                          </table>
-                        </th>
-
-                        <th class="small-12 large-2 columns last">
-                          <table>
-                            <tr>
-                              <th>$2.99</th>
-                            </tr>
-                          </table>
-                        </th>
-                      </tr>
-                    </tbody>
-                  </table>
+                  <!-- Receipt first row -->
+                  {% include '_receipt_row' for products %}
 
                   <table class="row">
                     <tbody>
@@ -274,53 +229,7 @@
                     </tbody>
                   </table>
 
-                  <table class="row">
-                    <tbody>
-                      <tr>
-                        <!-- Receipt 2nd row -->
-
-                        <th class="small-12 large-4 columns first">
-                          <table>
-                            <tr>
-                              <th>Widget 2</th>
-                            </tr>
-                          </table>
-                        </th>
-
-                        <th class="small-12 large-2 columns">
-                          <table>
-                            <tr>
-                              <th>$5.99</th>
-                            </tr>
-                          </table>
-                        </th>
-
-                        <th class="small-12 large-2 columns">
-                          <table>
-                            <tr>
-                              <th>1</th>
-                            </tr>
-                          </table>
-                        </th>
-
-                        <th class="small-12 large-2 columns">
-                          <table>
-                            <tr>
-                              <th>$0.00</th>
-                            </tr>
-                          </table>
-                        </th>
-
-                        <th class="small-12 large-2 columns last">
-                          <table>
-                            <tr>
-                              <th>$5.99</th>
-                            </tr>
-                          </table>
-                        </th>
-                      </tr>
-                    </tbody>
-                  </table>
+                  <!-- Receipt 2nd row -->
 
                   <table class="row show-for-large">
                     <tbody>
