@@ -4,7 +4,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width">
-    {% include 'style' %}
+    {% include 'ecomm/_style' %}
   </head>
   <body>
     <table class="body">
