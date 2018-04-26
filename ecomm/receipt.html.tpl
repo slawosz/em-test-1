@@ -207,28 +207,6 @@
                   <!-- Receipt first row -->
                   {% include 'receipt_row' for products %}
 
-                  <table class="row">
-                    <tbody>
-                      <tr>
-                        <!-- Spacer -->
-
-                        <th class=
-                        "small-12 large-12 columns first last">
-                          <table>
-                            <tr>
-                              <th>
-                                &nbsp;
-                                <hr />
-                              </th>
-
-                              <th class="expander"></th>
-                            </tr>
-                          </table>
-                        </th>
-                      </tr>
-                    </tbody>
-                  </table>
-
                   <!-- Receipt 2nd row -->
 
                   <table class="row show-for-large">
