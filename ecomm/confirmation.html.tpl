@@ -51,7 +51,11 @@
           <th>
                   <h1 class="text-center">Your order has shipped!</h1>
                   <center data-parsed="">
-                  <img src="https://www.sendwithus.com/assets/img/zurb-template-images/cat-placeholder.png" valign="bottom" alt="Masthead Image" align="center" class="text-center">
+                    <img src=
+                    "http://via.placeholder.com/580x226"
+                    valign="bottom" alt=
+                    "Masthead Image" align="center"
+                    class="text-center" />
                   </center>
                 </th>
 <th class="expander"></th>
