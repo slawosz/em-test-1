@@ -38,7 +38,7 @@
       <th class="small-12 large-2 columns last">
         <table>
           <tr>
-            <th>{{ product.total_price }}</th>
+            <th>tp{{ product.total_price }}</th>
           </tr>
         </table>
       </th>
